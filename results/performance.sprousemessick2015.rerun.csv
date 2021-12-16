@@ -1,0 +1,11 @@
+violationtype,unboundedviolation,violationintercept,numofviolations,DIC,BPIC
+none,False,False,1,20756.2569016,21339.1544885
+none,True,False,1,20740.2049552,21317.8891169
+discrete,False,False,1,20392.0759045,20793.2002979
+discrete,False,False,2,20487.0858354,20838.9572435
+discrete,False,False,3,20654.8628428,21112.2508835
+discrete,False,False,4,20615.3867958,21079.4499784
+discrete,False,True,1,20563.4399043,20987.0265294
+discrete,False,True,2,20661.5933554,21142.3425257
+discrete,False,True,3,20609.6338837,21099.7694384
+discrete,False,True,4,20598.1225999,21094.1598835

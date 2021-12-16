@@ -1,0 +1,11 @@
+violationtype,unboundedviolation,violationintercept,numofviolations,DIC
+none,True,False,1,16094.6817823
+none,False,False,1,16135.9201922
+discrete,False,False,1,15629.9105422
+discrete,False,False,2,15662.7569623
+discrete,False,False,3,15975.5621995
+discrete,False,False,4,15992.0383327
+discrete,False,True,1,16007.8821521
+discrete,False,True,2,16038.2450669
+discrete,False,True,3,16068.3240284
+discrete,False,True,4,16087.1950567
