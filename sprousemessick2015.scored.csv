@@ -1,0 +1,657 @@
+item,sentence,penalized_logprob
+1F.01,There might mice seem to be in the cupboard.,-20.22465038982079
+1F.02,Mike prefers tennis because Jon baseball.,-37.818512004855315
+1F.03,Jenny cleaned her sister the table.,-19.737210756829953
+2F.01,There had all hung over the fireplace the portraits by Picasso.,-14.697640428565348
+2F.02,Lily will dance who the king chooses.,-22.18705636004273
+3F.01,The specimen thawed to study it more closely.,-5.733414946328313
+3F.02,With that announcement were many citizens denied the opportunity to protest.,-19.43212998357221
+4F.01,There is likely a river to run down the mountain.,-8.770089055298227
+4F.02,"Richard may have been hiding, but Blake may have done so too.",-11.293628683446018
+5F.01,The ball perfectly rolled down the hill.,-7.992483467024102
+5F.02,Lloyd Webber musicals are easy to condemn without even watching,-15.785311408207102
+6F.01,There are firemen injured.,-12.016077006744505
+6F.02,Someone better sing the national anthem.,-6.056938819094032
+7F.01,It seems to me that Robert can't be trusted.,-4.62340075591371
+7F.02,Laura is more excited than nervous.,-9.174273640099457
+7F.03,I hate eating sushi.,-4.312637726012074
+D.adjBecause.isl.lg.01,Which briefcase did you worry because the lawyer forgot at the office?,-23.161759478317684
+D.adjBecause.isl.lg.02,Which painting did you laugh because the heiress bought at the auction?,-21.053813722601753
+D.adjBecause.isl.lg.03,Which note did you sigh because the bride and groom neglected to send promptly?,-20.344556104870307
+D.adjBecause.isl.lg.04,Which drawing did you blush because the child prodigy submitted to the art contest?,-21.039138913271273
+D.adjBecause.isl.lg.05,Which window did you sneeze because the dog owner left open at night?,-13.419449327028591
+D.adjBecause.isl.lg.06,Which painting did you cough because the tourists photographed in the exhibit?,-30.09723451083422
+D.adjBecause.isl.lg.07,Which snack did you wink because the sweethearts shared at the movies?,-24.929839284131845
+D.adjBecause.isl.lg.08,Which lines did you faint because the actors forgot on stage?,-16.474821200067524
+D.adjBecause.isl.sh.01,Which secretary worried because the lawyer forgot his briefcase at the office?,-18.090866561168436
+D.adjBecause.isl.sh.02,Which auctioneer laughed because the heiress bought a painting at the auction?,-13.40138668170257
+D.adjBecause.isl.sh.03,Which guest sighed because the bride and groom neglected to send a thank you note promptly?,-14.216831843959742
+D.adjBecause.isl.sh.04,Which teacher blushed because the child prodigy submitted a drawing to the art contest?,-20.241289312926053
+D.adjBecause.isl.sh.05,Which resident sneezed because the dog owner left a window open at night?,-10.742649930316366
+D.adjBecause.isl.sh.06,Which guard coughed because the tourists photographed the priceless painting in the exhibit?,-24.110413876583145
+D.adjBecause.isl.sh.07,Which usher winked because the sweethearts shared popcorn at the movies?,-20.90628537753975
+D.adjBecause.isl.sh.08,Which director fainted because the actors forgot their lines on stage?,-9.01914441062586
+D.adjBecause.non.lg.01,Which briefcase did you think that the lawyer forgot at the office?,-16.490066193830426
+D.adjBecause.non.lg.02,Which painting did you wish that the heiress bought at the auction?,-14.740546963301737
+D.adjBecause.non.lg.03,Which note did you suspect that the bride and groom neglected to send promptly?,-16.91641941287561
+D.adjBecause.non.lg.04,Which drawing did you think that the child prodigy  submitted to the art contest?,-12.5992493339052
+D.adjBecause.non.lg.05,Which window did you hope that the dog owner left open at night?,-15.554807372912748
+D.adjBecause.non.lg.06,Which painting did you complain that the tourists photographed in the exhibit?,-24.568634754352832
+D.adjBecause.non.lg.07,Which snack did you claim that the sweethearts shared at the movies?,-19.78430031205619
+D.adjBecause.non.lg.08,Which lines did you believe that the actors forgot on stage?,-12.109175537599993
+D.adjBecause.non.sh.01,Which secretary thought that the lawyer forgot his briefcase at the office?,-15.222436139932674
+D.adjBecause.non.sh.02,Which auctioneer wished that the heiress bought a painting at the auction?,-14.120811873601749
+D.adjBecause.non.sh.03,Which guest suspected that the bride and groom neglected to send a thank you note promptly?,-13.084889938632715
+D.adjBecause.non.sh.04,Which teacher thought that the child prodigy submitted a drawing to the art contest?,-16.81410801491882
+D.adjBecause.non.sh.05,Which resident hoped that the dog owner left a window open at night?,-15.274294497387666
+D.adjBecause.non.sh.06,Which guard complained that the tourists photographed the priceless painting in the exhibit?,-23.586353183835236
+D.adjBecause.non.sh.07,Which usher claimed that the sweethearts shared popcorn at the movies?,-21.00289809432388
+D.adjBecause.non.sh.08,Which director believed that the actors forgot their lines on stage?,-9.775920938806367
+DLG.adjBecause.isl.lg.01,I found out which briefcase you worried because the lawyer forgot at the office.,-23.179646960540417
+DLG.adjBecause.isl.lg.02,I found out which painting you laughed because the heiress bought at the auction.,-21.63837583470119
+DLG.adjBecause.isl.lg.03,I found out which note you sighed because the bride and groom neglected to send promptly.,-23.678193323525864
+DLG.adjBecause.isl.lg.04,I found out which drawing you blushed because the child prodigy submitted to the art contest.,-22.247516358369282
+DLG.adjBecause.isl.lg.05,I know which window you sneezed because the dog owner left open at night.,-14.506516569646172
+DLG.adjBecause.isl.lg.06,I know which painting you coughed because the tourists photographed in the exhibit.,-28.615200161219423
+DLG.adjBecause.isl.lg.07,I know which snack you winked because the sweethearts shared at the movies.,-25.768891054228284
+DLG.adjBecause.isl.lg.08,I know which lines you fainted because the actors forgot on stage.,-15.31715008805108
+DLG.adjBecause.isl.sh.01,I found out which secretary worried because the lawyer forgot his briefcase at the office.,-17.850994413308303
+DLG.adjBecause.isl.sh.02,I found out which auctioneer laughed because the heiress bought a painting at the auction.,-17.817994709626177
+DLG.adjBecause.isl.sh.03,I found out which guest sighed because the bride and groom neglected to send a thank you note promptly.,-15.340296815333469
+DLG.adjBecause.isl.sh.04,I found out which teacher blushed because the child prodigy submitted a drawing to the art contest.,-18.915992518598745
+DLG.adjBecause.isl.sh.05,I know which resident sneezed because the dog owner left a window open at night.,-15.322301024000781
+DLG.adjBecause.isl.sh.06,I know which guard coughed because the tourists photographed the priceless painting in the exhibit.,-25.24616467961262
+DLG.adjBecause.isl.sh.07,I know which usher winked because the sweethearts shared popcorn at the movies.,-23.99190026680932
+DLG.adjBecause.isl.sh.08,I know which director fainted because the actors forgot their lines on stage.,-10.457406510431193
+DLG.adjBecause.non.lg.01,I found out which briefcase you thought that the lawyer forgot at the office.,-14.95398003706704
+DLG.adjBecause.non.lg.02,I found out which painting you wished that the heiress bought at the auction.,-13.0733237449703
+DLG.adjBecause.non.lg.03,I found out which note you suspected that the bride and groom neglected to send promptly.,-16.760694667015557
+DLG.adjBecause.non.lg.04,I found out which drawing you thought that the child prodigy  submitted to the art contest.,-13.948870914257464
+DLG.adjBecause.non.lg.05,I know which window you hoped that the dog owner left open at night.,-18.157114026975037
+DLG.adjBecause.non.lg.06,I know which painting you complained that the tourists photographed in the exhibit.,-25.366427676243514
+DLG.adjBecause.non.lg.07,I know which snack you claimed that the sweethearts shared at the movies.,-20.002163569299423
+DLG.adjBecause.non.lg.08,I know which lines you believed that the actors forgot on stage.,-12.64152618295863
+DLG.adjBecause.non.sh.01,I found out which secretary thought that the lawyer forgot his briefcase at the office.,-14.32407501382325
+DLG.adjBecause.non.sh.02,I found out which auctioneer wished that the heiress bought a painting at the auction.,-15.92243222493293
+DLG.adjBecause.non.sh.03,I found out which guest suspected that the bride and groom neglected to send a thank you note promptly.,-15.762379726426952
+DLG.adjBecause.non.sh.04,I found out which teacher thought that the child prodigy submitted a drawing to the art contest.,-15.888739492991645
+DLG.adjBecause.non.sh.05,I know which resident hoped that the dog owner left a window open at night.,-19.606286796137603
+DLG.adjBecause.non.sh.06,I know which guard complained that the tourists photographed the priceless painting in the exhibit.,-22.36569040450062
+DLG.adjBecause.non.sh.07,I know which usher claimed that the sweethearts shared popcorn at the movies.,-21.079774455820775
+DLG.adjBecause.non.sh.08,I know which director believed that the actors forgot their lines on stage.,-13.700308360972487
+DLG.np.isl.lg.01,I found out which pie you heard the rumor that Jeff baked.,-17.73988804000029
+DLG.np.isl.lg.02,I found out which cookie you denied the fact that Laura ate.,-22.88178192788141
+DLG.np.isl.lg.03,I found out which match you made the announcement that Andrew won.,-19.2763971074002
+DLG.np.isl.lg.04,I found out which game you made the announcement that Jane lost.,-18.03585793549723
+DLG.np.isl.lg.05,I know which pizza you made the claim that Amy stole.,-21.38058198059545
+DLG.np.isl.lg.06,I know which award you heard the rumor that Ralph received.,-16.13756022768373
+DLG.np.isl.lg.07,I know which car you denied the fact that Jared could afford.,-16.74958001485978
+DLG.np.isl.lg.08,I know which club you made the claim that Elizabeth joined.,-15.267247498190354
+DLG.np.isl.sh.01,I found out which chef heard the rumor that Jeff baked a pie.,-15.351766324501314
+DLG.np.isl.sh.02,I found out which parent denied the fact that Laura ate the cookie.,-17.93589551328726
+DLG.np.isl.sh.03,I found out which referee made the announcement that Andrew won the match.,-14.586132721990069
+DLG.np.isl.sh.04,I found out which coach made the announcement that Jane lost the game?,-20.27029274570626
+DLG.np.isl.sh.05,I know which witness made the claim that Amy stole the pizza.,-14.746434003465842
+DLG.np.isl.sh.06,I know which finalist heard the rumor that Ralph received the award.,-19.430706118435452
+DLG.np.isl.sh.07,I know which salesman denied the fact that Jared could afford the car.,-23.5410761764688
+DLG.np.isl.sh.08,I know which teacher made the claim that Elizabeth joined the club.,-16.13208838326273
+DLG.np.non.lg.01,I found out which pie you heard that Jeff baked.,-20.289783469117026
+DLG.np.non.lg.02,I found out which cookie you denied that Laura ate.,-20.014519643063842
+DLG.np.non.lg.03,I found out which match you announced that Andrew won.,-17.197339649553403
+DLG.np.non.lg.04,I found out which game you announced that Jane lost.,-18.37927195448233
+DLG.np.non.lg.05,I know which pizza you claimed that Amy stole.,-20.480211240203943
+DLG.np.non.lg.06,I know which award you heard that Ralph received.,-17.13702307327879
+DLG.np.non.lg.07,I know which car you denied that Jared could afford.,-19.71031776284592
+DLG.np.non.lg.08,I know which club you claimed that Elizabeth joined.,-15.850467223165246
+DLG.np.non.sh.01,I found out which chef heard that Jeff baked a pie.,-17.487798745170867
+DLG.np.non.sh.02,I found out which parent denied that Laura ate the cookie.,-16.000935539440707
+DLG.np.non.sh.03,I found out which referee announced that Andrew won the match.,-14.355204643350648
+DLG.np.non.sh.04,I found out which coach announced that Jane lost the game.,-20.006428187156853
+DLG.np.non.sh.05,I know which witness claimed that Amy stole the pizza.,-19.918107196512643
+DLG.np.non.sh.06,I know which finalist heard that Ralph received the award.,-21.88125689776498
+DLG.np.non.sh.07,I know which salesman denied that Jared could afford the car.,-23.67607163812571
+DLG.np.non.sh.08,I know which teacher claimed that Elizabeth joined the club.,-17.894883916047228
+DLG.sub.isl.lg.01,I found out which lobbyist the reporter thinks the gift from prompted the congressional hearing.,-21.390486984360862
+DLG.sub.isl.lg.02,I found out which politician the retiree thinks the speech by interrupted the primetime TV show.,-26.559819087204268
+DLG.sub.isl.lg.03,I found out which millionaire the publicist thinks the meeting with delayed the campaign fundraiser.,-25.99293734802055
+DLG.sub.isl.lg.04,I found out which director the critic thinks the documentary by preceded the popular movie.,-23.705092159238507
+DLG.sub.isl.lg.05,I know which priest the reporter thinks the email from criticized the tasteless joke.,-22.28065635139217
+DLG.sub.isl.lg.06,I know which bride the bridesmaid thinks the picture of accompanied the wedding invitation.,-15.168044933134372
+DLG.sub.isl.lg.07,I know which scientist the scientist thinks the new invention by deserves the Nobel Prize.,-16.56824453959367
+DLG.sub.isl.lg.08,I know which judge the historian thinks the verdict from started the civil rights debate.,-19.426984065413315
+DLG.sub.isl.sh.01,I found out which reporter thinks the gift from the lobbyist prompted the congressional hearing.,-19.843544202537778
+DLG.sub.isl.sh.02,I found out which retiree thinks the speech by the president interrupted the primetime TV show.,-16.77441495109338
+DLG.sub.isl.sh.03,I found out which publicist thinks the meeting with the millionaire delayed the campaign fundraiser.,-24.3826615099958
+DLG.sub.isl.sh.04,I found out which critic thinks the documentary by the famous historian preceded the popular movie.,-20.33821483032766
+DLG.sub.isl.sh.05,I know which reporter thinks the email from the priest criticized the tasteless joke.,-23.265945393030492
+DLG.sub.isl.sh.06,I know which bridesmaid thinks the picture of the bride accompanied the wedding invitation.,-12.044826031235479
+DLG.sub.isl.sh.07,I know which doctor thinks the new invention by scientist deserves the Nobel Prize.,-17.313083151806875
+DLG.sub.isl.sh.08,I know which historian thinks the verdict from the judge started the civil rights debate.,-17.600688185014118
+DLG.sub.non.lg.01,I found out which gift the reporter thinks prompted the congressional hearing.,-18.555825766037497
+DLG.sub.non.lg.02,I found out which speech the retiree thinks interrupted the primetime TV show.,-22.997392385076388
+DLG.sub.non.lg.03,I found out which meeting the publicist thinks delayed the campaign fundraiser.,-28.684585951566444
+DLG.sub.non.lg.04,I found out which documentary the critic thinks preceded the popular movie.,-21.34247822926053
+DLG.sub.non.lg.05,I know which email the reporter thinks criticized the tasteless joke.,-20.05192032561609
+DLG.sub.non.lg.06,I know which picture the bridesmaid thinks accompanied the wedding invitation.,-13.614285859775865
+DLG.sub.non.lg.07,I know which invention the scientist thinks deserves the Nobel Prize.,-8.921711488682988
+DLG.sub.non.lg.08,I know which verdict the historian thinks started the civil rights debate.,-15.261401944640957
+DLG.sub.non.sh.01,I found out which reporter thinks the gift prompted the congressional hearing.,-18.03593811479165
+DLG.sub.non.sh.02,I found out which retiree thinks the speech interrupted the primetime TV show.,-22.739175179970445
+DLG.sub.non.sh.03,I found out which publicist thinks the meeting delayed the campaign fundraiser.,-25.409940487378687
+DLG.sub.non.sh.04,I found out which critic thinks the documentary preceded the popular movie.,-18.22219073043681
+DLG.sub.non.sh.05,I know which reporter thinks the email criticized the tasteless joke.,-25.597210458342232
+DLG.sub.non.sh.06,I know which bridesmaid thinks the picture accompanied the wedding invitation.,-14.517152924701264
+DLG.sub.non.sh.07,I know which doctor thinks the new invention deserves the Nobel Prize.,-15.234715629925429
+DLG.sub.non.sh.08,I know which historian thinks the verdict started the civil rights debate.,-16.65389380980657
+DLG.whe.isl.lg.01,I found out which necklace the detective wonders whether Paul stole.,-22.018945258549675
+DLG.whe.isl.lg.02,I found out which bus the police officer wonders whether Matt chased.,-26.38073013143151
+DLG.whe.isl.lg.03,I found out which television the manager wonders whether Tom sold.,-33.348984939937864
+DLG.whe.isl.lg.04,I found out which letter the soldier wonders whether Stacey wrote.,-23.35135251979213
+DLG.whe.isl.lg.05,I know which house the agent wonders whether Aaron bought.,-17.36357960296326
+DLG.whe.isl.lg.06,I know which book the teacher wonders whether George read.,-17.759460134197205
+DLG.whe.isl.lg.07,I know which movie the girl wonders whether Heather saw.,-21.546772122038902
+DLG.whe.isl.lg.08,I know which cake the guest wonders whether Casey baked.,-25.021766129279374
+DLG.whe.isl.sh.01,I found out which detective wonders whether Paul stole the necklace.,-23.258330672788606
+DLG.whe.isl.sh.02,I found out which police officer wonders whether Matt chased the bus.,-26.31356258603805
+DLG.whe.isl.sh.03,I found out which manager wonders whether Tom sold the television.,-30.743587723778543
+DLG.whe.isl.sh.04,I found out which soldier wonders whether Stacey wrote the letter.,-28.248569283319895
+DLG.whe.isl.sh.05,I know which agent wonders whether Aaron bought the house.,-22.84153718227569
+DLG.whe.isl.sh.06,I know which teacher wonders whether George read the book.,-22.147992491743434
+DLG.whe.isl.sh.07,I know which girl wonders whether Heather saw the movie.,-22.360886622417
+DLG.whe.isl.sh.08,I know which guest wonders whether Casey baked the cake.,-24.93524774000907
+DLG.whe.non.lg.01,I found out which necklace the detective thinks that Paul stole.,-16.044916689413796
+DLG.whe.non.lg.02,I found out which bus the police officer thinks that Matt chased.,-20.871690728157652
+DLG.whe.non.lg.03,I found out which television the manager thinks that Tom sold.,-26.271436433384963
+DLG.whe.non.lg.04,I found out which letter the soldier thinks that Stacey wrote.,-17.197772301321383
+DLG.whe.non.lg.05,I know which house the agent thinks that Aaron bought.,-11.750788713183105
+DLG.whe.non.lg.06,I know which book the teacher thinks that George read.,-11.68606332630395
+DLG.whe.non.lg.07,I know which movie the girl thinks that Heather saw.,-16.641646250892492
+DLG.whe.non.lg.08,I know which cake the guest thinks that Casey baked.,-18.21504761699559
+DLG.whe.non.sh.01,I found out which detective thinks that Paul stole the necklace.,-16.82068090755814
+DLG.whe.non.sh.02,I found out which police officer thinks that Matt chased the bus.,-19.082056860967114
+DLG.whe.non.sh.03,I found out which manager thinks that Tom sold the television.,-22.622662805241507
+DLG.whe.non.sh.04,I found out which soldier thinks that Stacey wrote the letter.,-20.118338182351874
+DLG.whe.non.sh.05,I know which agent thinks that Aaron bought the house.,-16.740122022576717
+DLG.whe.non.sh.06,I know which teacher thinks that George read the book.,-17.824965976103293
+DLG.whe.non.sh.07,I know which girl thinks that Heather saw the movie.,-16.660884992348624
+DLG.whe.non.sh.08,I know which guest thinks that Casey baked the cake.,-19.076298059655553
+D.np.isl.lg.01,Which pie did the chef hear the rumor that Jeff baked?,-15.217443198358652
+D.np.isl.lg.02,Which cookie did the parent deny the fact that Laura ate?,-19.320400262074145
+D.np.isl.lg.03,Which match did the referee make the announcement that Andrew won?,-11.618658303193763
+D.np.isl.lg.04,Which game did the coach make the announcement that Jane lost?,-14.460295344381915
+D.np.isl.lg.05,Which pizza did the witness make the claim that Amy stole?,-17.757422727415968
+D.np.isl.lg.06,Which award did the finalist hear the rumor that Ralph received?,-18.82195564706749
+D.np.isl.lg.07,Which car did the salesman deny the fact that Jared could afford?,-13.424070583875919
+D.np.isl.lg.08,Which club did the teacher make the claim that Elizabeth joined?,-15.816606363629994
+D.np.isl.sh.01,Which chef heard the rumor that Jeff baked a pie?,-15.414665825158421
+D.np.isl.sh.02,Which parent denied the fact that Lauraate the cookie?,-31.905324788256582
+D.np.isl.sh.03,Which referee made the announcement that Andrew won the match?,-11.487686897101987
+D.np.isl.sh.04,Which coach made the announcement that Jane lost the game?,-14.349710741032744
+D.np.isl.sh.05,Which witness made the claim that Amy stole the pizza?,-13.445824076152325
+D.np.isl.sh.06,Which finalist heard the rumor that Ralph received the award?,-15.0630869940958
+D.np.isl.sh.07,Which salesman denied the fact that Jared could afford the car?,-20.630359132347888
+D.np.isl.sh.08,Which teacher made the claim that Elizabeth joined the club?,-14.506016082386875
+D.np.non.lg.01,Which pie did the chef hear that Jeff baked?,-14.744591158045326
+D.np.non.lg.02,Which cookie did the parent deny that Laura ate? ,-20.89731902219776
+D.np.non.lg.03,Which match did the referee announce that Andrew won?,-12.34964476348772
+D.np.non.lg.04,Which game did the coach announce that Jane lost?,-16.34094076568339
+D.np.non.lg.05,Which pizza did the witness claim that Amy stole?,-18.4904483122208
+D.np.non.lg.06,Which award did the finalist hear that Ralph received?,-17.378648434399185
+D.np.non.lg.07,Which car did the salesman deny that Jared could afford?,-14.822246359757782
+D.np.non.lg.08,Which club did the teacher claim that Elizabeth joined?,-13.36890933062131
+D.np.non.sh.01,Which chef heard that Jeff baked a pie?,-16.425897422533275
+D.np.non.sh.02,Which parent denied that Laura ate the cookie?,-14.34116908500709
+D.np.non.sh.03,Which referee announced that Andrew won the match?,-18.172875067459717
+D.np.non.sh.04,Which coach announced that Jane lost the game?,-20.217887241456342
+D.np.non.sh.05,Which witness claimed that Amy stole the pizza?,-17.496242557604205
+D.np.non.sh.06,Which finalist heard that Ralph received the award?,-18.720775018671407
+D.np.non.sh.07,Which salesman denied that Jared could afford the car?,-22.653682746689473
+D.np.non.sh.08,Which teacher claimed that Elizabeth joined the club?,-16.344568821488682
+D.sub.isl.lg.01,Which lobbyist does the reporter think the gift from prompted the congressional hearing?,-16.37106464423696
+D.sub.isl.lg.02,Which politician does the retiree think the speech by interrupted the primetime TV show?,-24.772920516181834
+D.sub.isl.lg.03,Which millionaire does the publicist think the meeting with delayed the campaign fundraiser?,-28.364026917221267
+D.sub.isl.lg.04,Which director does the critic think the documentary by preceded the popular movie?,-20.727987508683864
+D.sub.isl.lg.05,Which priest does the reporter think the email from criticized the tasteless joke?,-21.34102665893386
+D.sub.isl.lg.06,Which bride does the bridesmaid think the picture of accompanied the wedding invitation?,-12.559441873502523
+D.sub.isl.lg.07,Which scientist does the doctor think the new invention by deserves the Nobel Prize?,-14.26234259623613
+D.sub.isl.lg.08,Which judge does the historian think the verdict from started the civil rights debate?,-17.63475788027789
+D.sub.isl.sh.01,Which reporter thinks the gift from the lobbyist prompted the congressional hearing?,-13.133061515443366
+D.sub.isl.sh.02,Which retiree thinks the speech by the president interrupted the primetime TV show?,-14.233042959875194
+D.sub.isl.sh.03,Which publicist thinks the meeting with the millionaire delayed the campaign fundraiser?,-21.17695641480776
+D.sub.isl.sh.04,Which critic thinks the documentary by the famous director preceded the popular movie?,-16.827397042969594
+D.sub.isl.sh.05,Which reporter thinks the email from the priest criticized the tasteless joke?,-22.76116229379899
+D.sub.isl.sh.06,Which bridesmaid thinks the picture of the bride accompanied the wedding invitation?,-9.123329199993666
+D.sub.isl.sh.07,Which doctor thinks the new invention by scientist deserves the Nobel Prize?,-15.769952800666845
+D.sub.isl.sh.08,Which historian thinks the verdict from the judge started the civil rights debate?,-15.326867339308507
+D.sub.non.lg.01,Which gift does the reporter think prompted the congressional hearing?,-18.52964805344756
+D.sub.non.lg.02,Which speech does the retiree think interrupted the primetime TV show?,-23.04374989046559
+D.sub.non.lg.03,Which meeting does the publicist think delayed the campaign fundraiser?,-22.40926354012737
+D.sub.non.lg.04,Which documentary does the critic think preceded the popular movie?,-22.074721036605478
+D.sub.non.lg.05,Which email does the reporter think criticized the tasteless joke?,-17.096264646396214
+D.sub.non.lg.06,Which picture does the bridesmaid think accompanied the wedding invitation?,-12.098207742767782
+D.sub.non.lg.07,Which invention does the scientist think deserves the Nobel Prize?,-6.482665874544177
+D.sub.non.lg.08,Which verdict does the historian think started the civil rights debate?,-13.759925767639725
+D.sub.non.sh.01,Which reporter thinks the gift prompted the congressional hearing?,-17.78329986113363
+D.sub.non.sh.02,Which retiree thinks the speech interrupted the primetime TV show?,-22.700446246324873
+D.sub.non.sh.03,Which publicist thinks the meeting delayed the campaign fundraiser?,-22.859711259612872
+D.sub.non.sh.04,Which critic thinks the documentary preceded the popular movie?,-16.629516326059893
+D.sub.non.sh.05,Which reporter thinks the email criticized the tasteless joke?,-26.30385603504325
+D.sub.non.sh.06,Which bridesmaid thinks the picture accompanied the wedding invitation?,-13.402542218013554
+D.sub.non.sh.07,Which doctor thinks the new invention deserves the Nobel Prize?,-12.127901516048981
+D.sub.non.sh.08,Which historian thinks the verdict started the civil rights debate?,-14.07980313353162
+D.whe.isl.lg.01,Which necklace does the detective wonder whether Paul stole?,-14.794913846287459
+D.whe.isl.lg.02,Which bus does the police officer wonder whether Matt chased?,-21.64033690578872
+D.whe.isl.lg.03,Which television does the manager wonder whether Tom sold?,-27.262897411032153
+D.whe.isl.lg.04,Which letter does the soldier wonder whether Stacey wrote?,-17.069966627792954
+D.whe.isl.lg.05,Which house does the agent wonder whether Aaron bought?,-17.739074648537958
+D.whe.isl.lg.06,Which book does the teacher wonder whether George read?,-15.41371779434684
+D.whe.isl.lg.07,Which movie does the girl wonder whether Heather saw?,-19.473365998839174
+D.whe.isl.lg.08,Which cake does the guest wonder whether Casey baked?,-17.94901098228157
+D.whe.isl.sh.01,Which detective wonders whether Paul stole the necklace?,-22.061482916607567
+D.whe.isl.sh.02,Which police officer wonders whether Matt chased the bus?,-22.04703663212283
+D.whe.isl.sh.03,Which manager wonders whether Tom sold the television?,-27.155369182952033
+D.whe.isl.sh.04,Which soldier wonders whether Stacey wrote the letter?,-23.78637215339795
+D.whe.isl.sh.05,Which agent wonders whether Aaron bought the house?,-23.58739471351385
+D.whe.isl.sh.06,Which teacher wonders whether George read the book?,-22.95021345873333
+D.whe.isl.sh.07,Which girl wonders whether Heather saw the movie?,-20.383173736577188
+D.whe.isl.sh.08,Which guest wonders whether Casey baked the cake?,-20.904124952696602
+D.whe.non.lg.01,Which necklace does the detective think that Paul stole?,-12.165229846036727
+D.whe.non.lg.02,Which bus does the police officer think that Matt chased?,-19.16910157168105
+D.whe.non.lg.03,Which television does the manager think that Tom sold?,-16.748717818061284
+D.whe.non.lg.04,Which letter does the soldier think that Stacey wrote?,-14.364114707032055
+D.whe.non.lg.05,Which house does the agent think that Aaron bought?,-10.758136510139748
+D.whe.non.lg.06,Which book does the teacher think that George read?,-10.456562716575819
+D.whe.non.lg.07,Which movie does the girl think that Heather saw?,-15.98808037198411
+D.whe.non.lg.08,Which cake does the guest think that Casey baked?,-16.522913456308803
+D.whe.non.sh.01,Which detective thinks that Paul stole the necklace?,-15.465473797138815
+D.whe.non.sh.02,Which police officer thinks that Matt chased the bus?,-17.915050133931434
+D.whe.non.sh.03,Which manager thinks that Tom sold the television?,-20.760636709467818
+D.whe.non.sh.04,Which soldier thinks that Stacey wrote the letter?,-17.98246908984244
+D.whe.non.sh.05,Which agent thinks that Aaron bought the house?,-16.225814763096086
+D.whe.non.sh.06,Which teacher thinks that George read the book?,-16.43068219626395
+D.whe.non.sh.07,Which girl thinks that Heather saw the movie?,-15.962692326492789
+D.whe.non.sh.08,Which guest thinks that Casey baked the cake?,-14.335213742726975
+LG.sub.non.sh.01,I found out who thinks the gift prompted the congressional hearing.,-19.320256585474215
+LG.sub.non.sh.02,I found out who thinks the speech interrupted the primetime TV show.,-24.475131769796562
+LG.sub.non.sh.03,I found out who thinks the meeting delayed the campaign fundraiser.,-25.37621375936846
+LG.sub.non.sh.04,I found out who thinks the documentary preceded the popular movie.,-18.818675863012846
+LG.sub.non.sh.05,I know who thinks the email criticized the tasteless joke.,-23.88729374990343
+LG.sub.non.sh.06,I know who thinks the picture accompanied the wedding invitation.,-16.889445571437406
+LG.sub.non.sh.07,I know who thinks the new invention deserves the Nobel Prize.,-11.391305219421012
+LG.sub.non.sh.08,I know who thinks the verdict started the civil rights debate.,-15.423324978451038
+LG.sub.isl.sh.01,I found out who thinks the gift from the lobbyist prompted the congressional hearing.,-20.71402952323307
+LG.sub.isl.sh.02,I found out who thinks the speech by the president interrupted the primetime TV show.,-18.362527330102488
+LG.sub.isl.sh.03,I found out who thinks the meeting with the millionaire delayed the campaign fundraiser.,-25.562053884993855
+LG.sub.isl.sh.04,I found out who thinks the documentary by the famous historian preceded the popular movie.,-20.510313037180303
+LG.sub.isl.sh.05,I know who thinks the email from the priest criticized the tasteless joke.,-24.486413558043516
+LG.sub.isl.sh.06,I know who thinks the picture of the bride accompanied the wedding invitation.,-14.64755439831031
+LG.sub.isl.sh.07,I know who thinks the new invention by scientist deserves the Nobel Prize.,-14.679611487682156
+LG.sub.isl.sh.08,I know who thinks the verdict from the judge started the civil rights debate.,-16.369316766329636
+LG.sub.non.lg.01,I found out what the reporter thinks prompted the congressional hearing.,-13.425487311872198
+LG.sub.non.lg.02,I found out what the retiree thinks interrupted the primetime TV show.,-21.092807609352825
+LG.sub.non.lg.03,I found out what the publicist thinks delayed the campaign fundraiser.,-19.01409540684424
+LG.sub.non.lg.04,I found out what the critic thinks preceded the popular movie.,-20.95352749367425
+LG.sub.non.lg.05,I know what the reporter thinks criticized the tasteless joke.,-16.503496385252102
+LG.sub.non.lg.06,I know what the bridesmaid thinks accompanied the wedding invitation.,-14.88349302166191
+LG.sub.non.lg.07,I know what the scientist thinks deserves the Nobel Prize.,-12.935019148476087
+LG.sub.non.lg.08,I know what the historian thinks started the civil rights debate.,-14.379181303472675
+LG.sub.isl.lg.01,I found out who the reporter thinks the gift from prompted the congressional hearing.,-23.731810193035273
+LG.sub.isl.lg.02,I found out who the retiree thinks the speech by interrupted the primetime TV show.,-26.48985688204088
+LG.sub.isl.lg.03,I found out who the publicist thinks the meeting with delayed the campaign fundraiser.,-21.677053395459094
+LG.sub.isl.lg.04,I found out who the critic thinks the documentary by preceded the popular movie.,-24.039362812121176
+LG.sub.isl.lg.05,I know who the reporter thinks the email from criticized the tasteless joke.,-17.22505040663161
+LG.sub.isl.lg.06,I know who the bridesmaid thinks the picture of accompanied the wedding invitation.,-10.58920584670689
+LG.sub.isl.lg.07,I know who the scientist thinks the new invention by deserves the Nobel Prize.,-13.663059618839041
+LG.sub.isl.lg.08,I know who the historian thinks the verdict from started the civil rights debate.,-20.327328500418293
+LG.whe.non.sh.01,I found out who thinks that Paul stole the necklace.,-16.76991863661096
+LG.whe.non.sh.02,I found out who thinks that Matt chased the bus.,-20.453485806051766
+LG.whe.non.sh.03,I found out who thinks that Tom sold the television.,-19.622113190434735
+LG.whe.non.sh.04,I found out who thinks that Stacey wrote the letter.,-16.095704459605084
+LG.whe.non.sh.05,I know who thinks that Aaron bought the house.,-12.093837344235487
+LG.whe.non.sh.06,I know who thinks that George read the book.,-15.26390049047953
+LG.whe.non.sh.07,I know who thinks that Heather saw the movie.,-17.309097139495773
+LG.whe.non.sh.08,I know who thinks that Casey baked the cake.,-16.368316577425414
+LG.whe.isl.sh.01,I found out who wonders whether Paul stole the necklace.,-25.81511626708913
+LG.whe.isl.sh.02,I found out who wonders whether Matt chased the bus.,-29.766206048058898
+LG.whe.isl.sh.03,I found out who wonders whether Tom sold the television.,-28.200016171910594
+LG.whe.isl.sh.04,I found out who wonders whether Stacey wrote the letter.,-26.0275667391286
+LG.whe.isl.sh.05,I know who wonders whether Aaron bought the house.,-21.162728544521485
+LG.whe.isl.sh.06,I know who wonders whether George read the book.,-20.62917919186324
+LG.whe.isl.sh.07,I know who wonders whether Heather saw the movie.,-23.4704423240049
+LG.whe.isl.sh.08,I know who wonders whether Casey baked the cake.,-22.77062175523418
+LG.whe.non.lg.01,I found out what the detective thinks that Paul stole.,-13.881229450746604
+LG.whe.non.lg.02,I found out what the police officer thinks that Matt chased.,-19.734625357956975
+LG.whe.non.lg.03,I found out what the manager thinks that Tom sold.,-15.314023000764877
+LG.whe.non.lg.04,I found out what the soldier thinks that Stacey wrote.,-21.9242138500194
+LG.whe.non.lg.05,I know what the agent thinks that Aaron bought.,-15.951939124695306
+LG.whe.non.lg.06,I know what the teacher thinks that George read.,-16.63845705298933
+LG.whe.non.lg.07,I know what the girl thinks that Heather saw.,-14.94147158129613
+LG.whe.non.lg.08,I know what the guest thinks that Casey baked.,-22.661396396001102
+LG.whe.isl.lg.01,I found out what the detective wonders whether Paul stole.,-23.087776975513638
+LG.whe.isl.lg.02,I found out what the police officer wonders whether Matt chased.,-27.125539998673627
+LG.whe.isl.lg.03,I found out what the manager wonders whether Tom sold.,-24.455817672280848
+LG.whe.isl.lg.04,I found out what the soldier wonders whether Stacey wrote.,-31.040040653773424
+LG.whe.isl.lg.05,I know what the agent wonders whether Aaron bought.,-22.588993224050085
+LG.whe.isl.lg.06,I know what the teacher wonders whether George read.,-23.700377778936286
+LG.whe.isl.lg.07,I know what the girl wonders whether Heather saw.,-21.841233398884448
+LG.whe.isl.lg.08,I know what the guest wonders whether Casey baked.,-30.340766718426693
+LG.adjBecause.non.sh.01,I found out who thought that the lawyer forgot his briefcase at the office.,-12.685374241994639
+LG.adjBecause.non.sh.02,I found out who wished that the heiress bought a painting at the auction.,-17.918453563748436
+LG.adjBecause.non.sh.03,I found out who suspected that the bride and groom neglected to send a thank you note promptly.,-14.118489505747117
+LG.adjBecause.non.sh.04,I found out who thought that the child prodigy submitted a drawing to the art contest.,-15.667249618274596
+LG.adjBecause.non.sh.05,I know who hoped that the dog owner left a window open at night.,-17.44514747957176
+LG.adjBecause.non.sh.06,I know who complained that the tourists photographed the priceless painting in the exhibit.,-19.650015828999106
+LG.adjBecause.non.sh.07,I know who claimed that the sweethearts shared popcorn at the movies.,-14.189194977489572
+LG.adjBecause.non.sh.08,I know who believed that the actors forgot their lines on stage.,-10.211313420473667
+LG.adjBecause.isl.sh.01,I found out who worried because the lawyer forgot his briefcase at the office.,-15.257711509194086
+LG.adjBecause.isl.sh.02,I found out who laughed because the heiress bought a painting at the auction.,-19.044501994068398
+LG.adjBecause.isl.sh.03,I found out who sighed because the bride and groom neglected to send a thank you note promptly.,-15.687068976787604
+LG.adjBecause.isl.sh.04,I found out who blushed because the child prodigy submitted a drawing to the art contest.,-19.486802348485163
+LG.adjBecause.isl.sh.05,I know who sneezed because the dog owner left a window open at night.,-12.961240364500163
+LG.adjBecause.isl.sh.06,I know who coughed because the tourists photographed the priceless painting in the exhibit.,-22.12499270603497
+LG.adjBecause.isl.sh.07,I know who winked because the sweethearts shared popcorn at the movies.,-19.610938365240937
+LG.adjBecause.isl.sh.08,I know who fainted because the actors forgot their lines on stage.,-6.823351865891894
+LG.adjBecause.non.lg.01,I found out what you thought that the lawyer forgot at the office.,-12.53651488074517
+LG.adjBecause.non.lg.02,I found out what you wished that the heiress bought at the auction.,-13.763143483800219
+LG.adjBecause.non.lg.03,I found out what you suspected that the bride and groom neglected to send promptly.,-14.264904633181658
+LG.adjBecause.non.lg.04,I found out what you thought that the child prodigy  submitted to the art contest.,-13.936276653213797
+LG.adjBecause.non.lg.05,I know what you hoped that the dog owner left open at night.,-17.595985136764494
+LG.adjBecause.non.lg.06,I know what you complained that the tourists photographed in the exhibit.,-26.0526086731247
+LG.adjBecause.non.lg.07,I know what you claimed that the sweethearts shared at the movies.,-15.498704220905697
+LG.adjBecause.non.lg.08,I know what you believed that the actors forgot on stage.,-13.8497202729109
+LG.adjBecause.isl.lg.01,I found out what you worried because the lawyer forgot at the office.,-19.966372315638782
+LG.adjBecause.isl.lg.02,I found out what you laughed because the heiress bought at the auction.,-19.81929291962016
+LG.adjBecause.isl.lg.03,I found out what you sighed because the bride and groom neglected to send promptly.,-19.739084886310632
+LG.adjBecause.isl.lg.04,I found out what you blushed because the child prodigy submitted to the art contest.,-21.20963408442834
+LG.adjBecause.isl.lg.05,I know what you sneezed because the dog owner left open at night.,-19.17553185081304
+LG.adjBecause.isl.lg.06,I know what you coughed because the tourists photographed in the exhibit.,-29.95031932181991
+LG.adjBecause.isl.lg.07,I know what you winked because the sweethearts shared at the movies.,-24.43330447733249
+LG.adjBecause.isl.lg.08,I know what you fainted because the actors forgot on stage.,-14.151930896546142
+LG.np.non.sh.01,I found out who heard that Jeff baked a pie.,-15.829934513976813
+LG.np.non.sh.02,I found out who denied that Laura ate the cookie.,-20.222814691377263
+LG.np.non.sh.03,I found out who announced that Andrew won the match.,-13.441146252851247
+LG.np.non.sh.04,I found out who announced that Jane lost the game.,-16.074544803523633
+LG.np.non.sh.05,I know who claimed that Amy stole the pizza.,-16.671513930640234
+LG.np.non.sh.06,I know who heard that Ralph received the award.,-15.459105042268519
+LG.np.non.sh.07,I know who denied that Jared could afford the car.,-19.632744874458698
+LG.np.non.sh.08,I know who claimed that Elizabeth joined the club.,-16.046897432130205
+LG.np.isl.sh.01,I found out who heard the rumor that Jeff baked a pie.,-13.92921990900429
+LG.np.isl.sh.02,I found out who denied the fact that Laura ate the cookie.,-19.825194840165427
+LG.np.isl.sh.03,I found out who made the announcement that Andrew won the match.,-11.718435658025017
+LG.np.isl.sh.04,I found out who made the announcement that Jane lost the game?,-16.127013529811823
+LG.np.isl.sh.05,I know who made the claim that Amy stole the pizza.,-12.975804944307871
+LG.np.isl.sh.06,I know who heard the rumor that Ralph received the award.,-16.26688606278313
+LG.np.isl.sh.07,I know who denied the fact that Jared could afford the car.,-18.560838826001753
+LG.np.isl.sh.08,I know who made the claim that Elizabeth joined the club.,-13.07620668334017
+LG.np.non.lg.01,I found out what you heard that Jeff baked?,-23.172551952681953
+LG.np.non.lg.02,I found out what you denied that Laura ate? ,-24.137503372284232
+LG.np.non.lg.03,I found out what you announced that Andrew won?,-23.803641494793755
+LG.np.non.lg.04,I found out what you announced that Jane lost?,-26.303711682907988
+LG.np.non.lg.05,I know what you claimed that Amy stole?,-21.03439594092187
+LG.np.non.lg.06,I know what you heard that Ralph received?,-20.637357768973907
+LG.np.non.lg.07,I know what you denied that Jared could afford?,-26.32554386629765
+LG.np.non.lg.08,I know what you claimed that Elizabeth joined?,-24.999303024414324
+LG.np.isl.lg.01,I found out what you heard the rumor that Jeff baked.,-22.350489229479038
+LG.np.isl.lg.02,I found out what you denied the fact that Laura ate.,-19.82100698926256
+LG.np.isl.lg.03,I found out what you made the announcement that Andrew won.,-20.83634155588662
+LG.np.isl.lg.04,I found out what you made the announcement that Jane lost.,-19.21564059159149
+LG.np.isl.lg.05,I know what you made the claim that Amy stole.,-20.642722732941152
+LG.np.isl.lg.06,I know what you heard the rumor that Ralph received.,-21.09034158177132
+LG.np.isl.lg.07,I know what you denied the fact that Jared could afford.,-20.941036906437517
+LG.np.isl.lg.08,I know what you made the claim that Elizabeth joined.,-26.109288691313925
+WH.np.non.sh.01,Who heard that Jeff baked a pie?,-14.455281404118455
+WH.np.non.sh.02,Who denied that Laura ate the cookie?,-16.87434990876265
+WH.np.non.sh.03,Who announced that Andrew won the match?,-14.43759435941997
+WH.np.non.sh.04,Who announced that Jane lost the game?,-14.543681802821942
+WH.np.non.sh.05,Who claimed that Amy stole the pizza?,-15.52714338918271
+WH.np.non.sh.06,Who heard that Ralph received the award?,-13.962393506400538
+WH.np.non.sh.07,Who denied that Jared could afford the car?,-20.14417205609812
+WH.np.non.sh.08,Who claimed that Elizabeth joined the club?,-15.780790484452984
+WH.np.isl.sh.01,Who heard the rumor that Jeff baked a pie?,-11.10771694931706
+WH.np.isl.sh.02,Who denied the fact that Laura ate the cookie?,-13.594020089912174
+WH.np.isl.sh.03,Who made the announcement that Andrew won the match?,-8.321994446563997
+WH.np.isl.sh.04,Who made the announcement that Jane lost the game?,-10.116652816107928
+WH.np.isl.sh.05,Who made the claim that Amy stole the pizza?,-10.51556749043361
+WH.np.isl.sh.06,Who heard the rumor that Ralph received the award?,-11.99230197989685
+WH.np.isl.sh.07,Who denied the fact that Jared could afford the car?,-16.452253709117706
+WH.np.isl.sh.08,Who made the claim that Elizabeth joined the club?,-12.339839027472244
+WH.np.non.lg.01,What did you hear that Jeff baked?,-18.49540653695351
+WH.np.non.lg.02,What did you deny that Laura ate? ,-25.987866279160695
+WH.np.non.lg.03,What did you announce that Andrew won?,-23.55227920659834
+WH.np.non.lg.04,What did you announce that Jane lost?,-24.091521300087397
+WH.np.non.lg.05,What did you claim that Amy stole?,-16.062452289616985
+WH.np.non.lg.06,What did you hear that Ralph received?,-15.8511556853321
+WH.np.non.lg.07,What did you deny that Jared could afford?,-22.922858932528552
+WH.np.non.lg.08,What did you claim that Elizabeth joined?,-25.00440761497651
+WH.np.isl.lg.01,What did you hear the rumor that Jeff baked?,-22.8979924727269
+WH.np.isl.lg.02,What did you deny the fact that Laura ate?,-22.231341605943978
+WH.np.isl.lg.03,What did you make the announcement that Andrew won?,-18.156175008333765
+WH.np.isl.lg.04,What did you make the announcement that Jane lost?,-19.48188133117082
+WH.np.isl.lg.05,What did you make the claim that Amy stole?,-21.026205225393404
+WH.np.isl.lg.06,What did you hear the rumor that Ralph received?,-21.502711357122116
+WH.np.isl.lg.07,What did you deny the fact that Jared could afford?,-22.576928304284458
+WH.np.isl.lg.08,What did you make the claim that Elizabeth joined?,-26.511005582933798
+WH.whe.non.sh.01,Who thinks that Paul stole the necklace?,-12.976237109286066
+WH.whe.non.sh.02,Who thinks that Matt chased the bus?,-17.457504534158822
+WH.whe.non.sh.03,Who thinks that Tom sold the television?,-18.174963240433225
+WH.whe.non.sh.04,Who thinks that Stacey wrote the letter?,-14.289690927279853
+WH.whe.non.sh.05,Who thinks that Aaron bought the house?,-11.542240363861708
+WH.whe.non.sh.06,Who thinks that George read the book?,-14.150689505925193
+WH.whe.non.sh.07,Who thinks that Heather saw the movie?,-16.46935383248923
+WH.whe.non.sh.08,Who thinks that Casey baked the cake?,-15.360117814513716
+WH.whe.isl.sh.01,Who wonders whether Paul stole the necklace?,-18.217053002134808
+WH.whe.isl.sh.02,Who wonders whether Matt chased the bus?,-23.913497674757682
+WH.whe.isl.sh.03,Who wonders whether Tom sold the television?,-23.576757401853556
+WH.whe.isl.sh.04,Who wonders whether Stacey wrote the letter?,-19.25710472300742
+WH.whe.isl.sh.05,Who wonders whether Aaron bought the house?,-18.240683977029857
+WH.whe.isl.sh.06,Who wonders whether George read the book?,-17.67123141457415
+WH.whe.isl.sh.07,Who wonders whether Heather saw the movie?,-20.812408931055337
+WH.whe.isl.sh.08,Who wonders whether Casey baked the cake?,-21.158131574162073
+WH.whe.non.lg.01,What does the detective think that Paul stole?,-11.653980302142234
+WH.whe.non.lg.02,What does the police officer think that Matt chased?,-19.054158739258266
+WH.whe.non.lg.03,What does the manager think that Tom sold?,-12.862365005626792
+WH.whe.non.lg.04,What does the soldier think that Stacey wrote?,-19.790451693745997
+WH.whe.non.lg.05,What does the agent think that Aaron bought?,-13.689365174863058
+WH.whe.non.lg.06,What does the teacher think that George read?,-15.05115730631178
+WH.whe.non.lg.07,What does the girl think that Heather saw?,-12.550731502737623
+WH.whe.non.lg.08,What does the guest think that Casey baked?,-19.825511604788726
+WH.whe.isl.lg.01,What does the detective wonder whether Paul stole?,-19.512231530748213
+WH.whe.isl.lg.02,What does the police officer wonder whether Matt chased?,-25.251735797158105
+WH.whe.isl.lg.03,What does the manager wonder whether Tom sold?,-23.947325980614497
+WH.whe.isl.lg.04,What does the soldier wonder whether Stacey wrote?,-25.606230632498427
+WH.whe.isl.lg.05,What does the agent wonder whether Aaron bought?,-24.130314650620097
+WH.whe.isl.lg.06,What does the teacher wonder whether George read?,-24.47876070181663
+WH.whe.isl.lg.07,What does the girl wonder whether Heather saw?,-20.566460838055686
+WH.whe.isl.lg.08,What does the guest wonder whether Casey baked?,-26.352457272318798
+WH.adjBecause.non.sh.01,Who thought that the lawyer forgot his briefcase at the office?,-11.161829357425246
+WH.adjBecause.non.sh.02,Who wished that the heiress bought a painting at the auction?,-15.946497624731116
+WH.adjBecause.non.sh.03,Who suspected that the bride and groom neglected to send a thank you note promptly?,-10.210634937135534
+WH.adjBecause.non.sh.04,Who thought that the child prodigy submitted a drawing to the art contest?,-14.162643474544733
+WH.adjBecause.non.sh.05,Who hoped that the dog owner left a window open at night?,-12.793791043689529
+WH.adjBecause.non.sh.06,Who complained that the tourists photographed the priceless painting in the exhibit?,-18.203884246153685
+WH.adjBecause.non.sh.07,Who claimed that the sweethearts shared popcorn at the movies?,-11.646930023432265
+WH.adjBecause.non.sh.08,Who believed that the actors forgot their lines on stage?,-7.904563947276391
+WH.adjBecause.isl.sh.01,Who worried because the lawyer forgot his briefcase at the office?,-11.57490952692664
+WH.adjBecause.isl.sh.02,Who laughed because the heiress bought a painting at the auction?,-14.745644186146645
+WH.adjBecause.isl.sh.03,Who sighed because the bride and groom neglected to send a thank you note promptly?,-12.810550222238389
+WH.adjBecause.isl.sh.04,Who blushed because the child prodigy submitted a drawing to the art contest?,-21.18205833128635
+WH.adjBecause.isl.sh.05,Who sneezed because the dog owner left a window open at night?,-10.122155621011647
+WH.adjBecause.isl.sh.06,Who coughed because the tourists photographed the priceless painting in the exhibit?,-20.76748636623893
+WH.adjBecause.isl.sh.07,Who winked because the sweethearts shared popcorn at the movies?,-16.022043391118142
+WH.adjBecause.isl.sh.08,Who fainted because the actors forgot their lines on stage?,-7.370780709180104
+WH.adjBecause.non.lg.01,What did you think that the lawyer forgot at the office?,-13.829952485860609
+WH.adjBecause.non.lg.02,What did you wish that the heiress bought at the auction?,-14.208083730007324
+WH.adjBecause.non.lg.03,What did you suspect that the bride and groom neglected to send promptly?,-16.412515530777714
+WH.adjBecause.non.lg.04,What did you think that the child prodigy  submitted to the art contest?,-13.793616734589527
+WH.adjBecause.non.lg.05,What did you hope that the dog owner left open at night?,-16.367528282563097
+WH.adjBecause.non.lg.06,What did you complain that the tourists photographed in the exhibit?,-26.843960328075553
+WH.adjBecause.non.lg.07,What did you claim that the sweethearts shared at the movies?,-16.871259459522644
+WH.adjBecause.non.lg.08,What did you believe that the actors forgot on stage?,-13.855019102125974
+WH.adjBecause.isl.lg.01,What did you worry because the lawyer forgot at the office?,-20.77706206990789
+WH.adjBecause.isl.lg.02,What did you laugh because the heiress bought at the auction?,-21.92722963118199
+WH.adjBecause.isl.lg.03,What did you sigh because the bride and groom neglected to send promptly?,-22.256035357741197
+WH.adjBecause.isl.lg.04,What did you blush because the child prodigy submitted to the art contest?,-22.622192490342247
+WH.adjBecause.isl.lg.05,What did you sneeze because the dog owner left open at night?,-18.628885852251077
+WH.adjBecause.isl.lg.06,What did you cough because the tourists photographed in the exhibit?,-30.90152816826063
+WH.adjBecause.isl.lg.07,What did you wink because the sweethearts shared at the movies?,-22.892400758753187
+WH.adjBecause.isl.lg.08,What did you faint because the actors forgot on stage?,-20.359261568039564
+WH.sub.non.sh.01,Who thinks the gift prompted the congressional hearing?,-16.338220120488604
+WH.sub.non.sh.02,Who thinks the speech interrupted the primetime TV show?,-21.763097165402613
+WH.sub.non.sh.03,Who thinks the meeting delayed the campaign fundraiser?,-20.440799572658428
+WH.sub.non.sh.04,Who thinks the documentary preceded the popular movie?,-15.364751991371271
+WH.sub.non.sh.05,Who thinks the email criticized the tasteless joke?,-23.079990800024444
+WH.sub.non.sh.06,Who thinks the picture accompanied the wedding invitation?,-15.341886644996023
+WH.sub.non.sh.07,Who thinks the new invention deserves the Nobel Prize?,-8.989155918895278
+WH.sub.non.sh.08,Who thinks the verdict started the civil rights debate?,-13.19418473327386
+WH.sub.isl.sh.01,Who thinks the gift from the lobbyist prompted the congressional hearing?,-15.128362172137788
+WH.sub.isl.sh.02,Who thinks the speech by the president interrupted the primetime TV show?,-13.266169933059567
+WH.sub.isl.sh.03,Who thinks the meeting with the millionaire delayed the campaign fundraiser?,-22.621890319936053
+WH.sub.isl.sh.04,Who thinks the documentary by the famous historian preceded the popular movie?,-19.983603261909355
+WH.sub.isl.sh.05,Who thinks the email from the priest criticized the tasteless joke?,-20.210230671719742
+WH.sub.isl.sh.06,Who thinks the picture of the bride accompanied the wedding invitation?,-9.788468876643812
+WH.sub.isl.sh.07,Who thinks the new invention by scientist deserves the Nobel Prize?,-12.692305336230556
+WH.sub.isl.sh.08,Who thinks the verdict from the judge started the civil rights debate?,-14.648690088245498
+WH.sub.non.lg.01,What does the reporter think prompted the congressional hearing?,-12.877792391703805
+WH.sub.non.lg.02,What does the retiree think interrupted the primetime TV show?,-18.352397537855573
+WH.sub.non.lg.03,What does the publicist think delayed the campaign fundraiser?,-20.430244848367376
+WH.sub.non.lg.04,What does the critic think preceded the popular movie?,-18.08859865384182
+WH.sub.non.lg.05,What does the reporter think criticized the tasteless joke?,-14.453635233574591
+WH.sub.non.lg.06,What does the bridesmaid think accompanied the wedding invitation?,-12.190051842772203
+WH.sub.non.lg.07,What does the scientist think deserves the Nobel Prize?,-8.378867855171183
+WH.sub.non.lg.08,What does the historian think started the civil rights debate?,-12.012294132832077
+WH.sub.isl.lg.01,Who does the reporter think the gift from prompted the congressional hearing?,-18.217666814825357
+WH.sub.isl.lg.02,Who does the retiree think the speech by interrupted the primetime TV show?,-24.51743356600774
+WH.sub.isl.lg.03,Who does the publicist think the meeting with delayed the campaign fundraiser?,-23.78767467905653
+WH.sub.isl.lg.04,Who does the critic think the documentary by preceded the popular movie?,-22.8273285985459
+WH.sub.isl.lg.05,Who does the reporter think the email from criticized the tasteless joke?,-17.114618680346016
+WH.sub.isl.lg.06,Who does the bridesmaid think the picture of accompanied the wedding invitation?,-9.90635605928321
+WH.sub.isl.lg.07,Who does the scientist think the new invention by deserves the Nobel Prize?,-13.005224634798276
+WH.sub.isl.lg.08,Who does the historian think the verdict from started the civil rights debate?,-18.439305793818193
+RC.sub.non.sh.01,I voted for the congressman who thinks the lobbyist offended the president.,-12.388060831242047
+RC.sub.non.sh.02,I met the reporter who thinks the mayor praised the local hero.,-20.661441461307874
+RC.sub.non.sh.03,I called the publicist who thinks the millionaire delayed the candidate.,-23.155160001591216
+RC.sub.non.sh.04,I interviewed the general who thinks the terrorist captured the soldier.,-16.96995959561371
+RC.sub.non.sh.05,I researched the priest who thinks the bishop criticized the Pope.,-17.705511888274003
+RC.sub.non.sh.06,I respect the doctor who thinks the therapist helped the children.,-16.522270363922683
+RC.sub.non.sh.07,I admire the agent who thinks the director intimidated the actress.,-17.80047745315042
+RC.sub.non.sh.08,I spoke to the editor who thinks the censors ruined the author.,-11.832314370142909
+RC.sub.isl.sh.01,I voted for the congressman who thinks the gift from the lobbyist offended the president.,-14.427483125559462
+RC.sub.isl.sh.02,I met the reporter who thinks the speech by the mayor praised the local hero.,-17.028097685071298
+RC.sub.isl.sh.03,I called the publicist who thinks the meeting with the millionaire delayed the candidate.,-21.209869627467437
+RC.sub.isl.sh.04,I interviewed the general who thinks the ambush by the terrorist captured the soldier.,-21.82666725856858
+RC.sub.isl.sh.05,I researched the priest who thinks the email from the bishop criticized the Pope.,-20.903386200991957
+RC.sub.isl.sh.06,I respect the doctor who thinks the treatment by the therapist helped the children.,-15.317613100648432
+RC.sub.isl.sh.07,I admire the agent who thinks the outburst by the director intimidated the actress.,-21.381661900048844
+RC.sub.isl.sh.08,I spoke to the editor who thinks the decision by the censors ruined the author.,-13.007229764382977
+RC.sub.non.lg.01,I voted for the congressman who the lobbyist thinks offended the president.,-12.880742060093537
+RC.sub.non.lg.02,I met the mayor who the reporter thinks praised the local hero.,-22.374617564778823
+RC.sub.non.lg.03,I called the millionaire who the publicist thinks delayed the candidate.,-28.439673730471565
+RC.sub.non.lg.04,I interviewed the terrorist who the general thinks captured the soldier.,-18.8609259637992
+RC.sub.non.lg.05,I researched the bishop who the priest thinks criticized the Pope.,-20.754776967488258
+RC.sub.non.lg.06,I respect the therapist who the doctor thinks helped the children.,-15.519697112181383
+RC.sub.non.lg.07,I admire the director who the agent thinks intimidated the actress.,-21.743173999843627
+RC.sub.non.lg.08,I spoke to the censors who the editor thinks ruined the author.,-15.524742844165454
+RC.sub.isl.lg.01,I voted for the congressman who the lobbyist thinks the gift from offended the president.,-19.671620465001357
+RC.sub.isl.lg.02,I met the mayor who the reporter thinks the speech by praised the local hero.,-27.51139261989205
+RC.sub.isl.lg.03,I called the millionaire who the publicist thinks the meeting with delayed the candidate.,-28.409573503495064
+RC.sub.isl.lg.04,I interviewed the terrorist who the general thinks the ambush by captured the soldier.,-31.018980633612102
+RC.sub.isl.lg.05,I researched the bishop who the priest thinks the email from criticized the Pope.,-25.56134153221641
+RC.sub.isl.lg.06,I respect the therapist who the doctor thinks the treatment by helped the children.,-25.536337742714036
+RC.sub.isl.lg.07,I admire the director who the agent thinks the outburst by intimidated the actress.,-30.084981103204747
+RC.sub.isl.lg.08,I spoke to the censors who the editor thinks the decision by ruined the author.,-23.087273700601635
+RC.np.non.sh.01,I know the fisherman who heard that Laura is dating the boat captain.,-16.893351591974632
+RC.np.non.sh.02,I trust the chef who suggested that Rebecca should hire a new waiter.,-15.005000920911726
+RC.np.non.sh.03,I agree with the teacher who recommended that Stan should talk to the principal.,-13.687594554738181
+RC.np.non.sh.04,I believe the employee who claimed that Amy insulted the customer.,-21.345243655665453
+RC.np.non.sh.05,I spoke to the detective who heard that Lilly could identify the criminal.,-18.41342361331497
+RC.np.non.sh.06,I trust the accountant who suggested that Ralph should contact a stock broker.,-16.82334017932057
+RC.np.non.sh.07,I like the nurse who recommended that Susan should see a new doctor.,-13.839637749444192
+RC.np.non.sh.08,I called the coach who claimed that Dennis pushed his teammate.,-20.689103043893105
+RC.np.isl.sh.01,I know the fisherman who heard the rumor that Laura is dating the boat captain.,-13.485874646476493
+RC.np.isl.sh.02,I trust the chef who made the suggestion that Rebecca should hire a new waiter.,-12.748402864369574
+RC.np.isl.sh.03,I agree with the teacher who made the recommendation that Stan should talk to the principal.,-10.117740506938382
+RC.np.isl.sh.04,I believe the employee who made the claim that Amy insulted the customer.,-17.88819809050101
+RC.np.isl.sh.05,I spoke to the detective who heard the rumor that Lilly could identify the criminal.,-12.80829926044993
+RC.np.isl.sh.06,I trust the accountant who made the suggestion that Ralph should contact a stock broker.,-15.102771378457094
+RC.np.isl.sh.07,I like the nurse who made the recommendation that Susan should see a new doctor.,-11.67327484657621
+RC.np.isl.sh.08,I called the coach who made the claim that Dennis pushed his teammate.,-19.024089265163038
+RC.np.non.lg.01,I know the boat captain who the fisherman heard that Laura is dating.,-21.382163848971455
+RC.np.non.lg.02,I trust the waiter who the chef suggested that Rebecca should hire.,-17.569150489646837
+RC.np.non.lg.03,I agree with the principal who the teacher recommended that Stan should talk to.,-11.925817923917062
+RC.np.non.lg.04,I believe the customer who the employee claimed that Amy insulted.,-25.071150103784557
+RC.np.non.lg.05,I spoke to the criminal who the detective heard that Lilly could identify.,-19.960754017768686
+RC.np.non.lg.06,I trust the stock broker who the accountant suggested that Ralph should contact.,-16.610908215476577
+RC.np.non.lg.07,I like the new doctor who the nurse recommended that Susan should see.,-14.686254841061874
+RC.np.non.lg.08,I called teammate who the coach claimed that Dennis pushed.,-29.481649462480974
+RC.np.isl.lg.01,I know the boat captain who the fisherman heard the rumor that Laura is dating.,-18.02871648383149
+RC.np.isl.lg.02,I trust the waiter who the chef made the suggestion that Rebecca should hire.,-17.034372337962715
+RC.np.isl.lg.03,I agree with the principal who the teacher made the recommendation that Stan should talk to.,-12.258210277045233
+RC.np.isl.lg.04,I believe the customer who the employee made the claim that Amy insulted.,-24.80873932993553
+RC.np.isl.lg.05,I spoke to the criminal who the detective heard the rumor that Lilly could identify.,-20.206611036080506
+RC.np.isl.lg.06,I trust the stock broker who the accountant made the suggestion that Ralph should contact.,-15.298874494542153
+RC.np.isl.lg.07,I like the new doctor who the nurse made the recommendation that Susan should see.,-15.241454488710565
+RC.np.isl.lg.08,I called the teammate who the coach made the claim that Dennis pushed.,-24.153224177225354
+RC.adjBecause.non.sh.01,I called the secretary who thought that the lawyer insulted the client.,-17.367478708189893
+RC.adjBecause.non.sh.02,I sympathized with the priest who believed that the bride and groom neglected to thank their parents.,-10.683716483139715
+RC.adjBecause.non.sh.03,I talked to the reporter who claimed that the tourists photographed the famous actor.,-15.162428084907567
+RC.adjBecause.non.sh.04,I met the parents who thought that the child prodigy imitated the famous artist.,-13.64341870521862
+RC.adjBecause.non.sh.05,I served the customer who believed that the young couple played with their child at the restaurant.,-16.80827913990014
+RC.adjBecause.non.sh.06,I spoke with the professor who claimed that the students publicly criticized the college president.,-12.743498007913647
+RC.adjBecause.non.sh.07,I interviewed the employee who thought that the office manager blackmailed an executive.,-15.927617377446941
+RC.adjBecause.non.sh.08,I emailed the teacher who said that her students wrote letters to their congressman.,-10.939864415834135
+RC.adjBecause.isl.sh.01,I called the secretary who worried because the lawyer insulted the client.,-18.710167805146455
+RC.adjBecause.isl.sh.02,I sympathized with the priest who sighed because the bride and groom neglected to thank their parents.,-10.170029183120862
+RC.adjBecause.isl.sh.03,I talked to the reporter who coughed because the tourists photographed the famous actor.,-20.37396591458612
+RC.adjBecause.isl.sh.04,I met the parents who blushed because the child prodigy imitated the famous artist.,-17.917126567421615
+RC.adjBecause.isl.sh.05,I served the customer who winked because the young couple played with their child at the restaurant.,-19.99817293730948
+RC.adjBecause.isl.sh.06,I spoke with the professor who fainted because the students publicly criticized the college president.,-13.051012700191325
+RC.adjBecause.isl.sh.07,I interviewed the employee who laughed because the office manager blackmailed an executive.,-18.809348277508235
+RC.adjBecause.isl.sh.08,I emailed the teacher who smiled because her students wrote letters to their congressman.,-14.591897942660012
+RC.whe.non.sh.01,I take classes with the professor who thinks that Paul will tutor the struggling student. ,-17.89302070840631
+RC.whe.non.sh.02,I respect the soldier who thinks that Matt will impress the general.,-16.197257380959364
+RC.whe.non.sh.03,I dislike the real estate agent who thinks that Caroline will confront the home owner.,-17.702099815429325
+RC.whe.non.sh.04,I like the director who thinks that Tom should hire the talented actor.,-18.617487796864168
+RC.whe.non.sh.05,I called the teacher who thinks that Christine will apologize to the principal.,-17.311330132788353
+RC.whe.non.sh.06,I negotiated with the agent who thinks that Alan will perform with the famous band.,-17.114376408867724
+RC.whe.non.sh.07,I share a locker with the cheerleader who thinks that Jessica kissed the quarterback.,-15.663778794795915
+RC.whe.non.sh.08,I spoke with the waiter who thinks that Rachel should talk to the chef.,-16.89142066774152
+RC.whe.isl.sh.01,I take classes with the professor who wonders whether Paul will tutor the struggling student. ,-20.258361661240734
+RC.whe.isl.sh.02,I respect the soldier who wonders whether Matt will impress the general.,-20.323460823069514
+RC.whe.isl.sh.03,I dislike the real estate agent who wonders whether Caroline will confront the home owner.,-19.877804554771373
+RC.whe.isl.sh.04,I like the director who wonders whether Tom should hire the talented actor.,-20.96545075852606
+RC.whe.isl.sh.05,I called the teacher who wonders whether Christine will apologize to the principal.,-18.907345593326237
+RC.whe.isl.sh.06,I negotiated with the agent who wonders whether Alan will perform with the famous band.,-20.041708166782843
+RC.whe.isl.sh.07,I share a locker with the cheerleader who wonders whether Jessica kissed the quarterback.,-19.63266508691981
+RC.whe.isl.sh.08,I spoke with the waiter who wonders whether Rachel should talk to the chef.,-18.808760759234058
+RC.whe.non.lg.01,I take classes with the struggling student who the professor thinks that Paul will tutor.,-18.702836733437366
+RC.whe.non.lg.02,I respect the general who the soldier thinks that Matt will impress.,-21.08483048559761
+RC.whe.non.lg.03,I dislike the home owner who the real estate agent thinks that Caroline will confront.,-17.147468444795607
+RC.whe.non.lg.04,I like the talented actor who the director thinks that Tom should hire.,-14.655824633015387
+RC.whe.non.lg.05,I called the principal who the teacher thinks that Christine will apologize to.,-17.56800474494246
+RC.whe.non.lg.06,I negotiated with the famous band who the agent thinks that Alan will perform with.,-18.94135068262614
+RC.whe.non.lg.07,I share a locker with the quarterback who the cheerleader thinks that Jessica kissed.,-16.042533136322536
+RC.whe.non.lg.08,I spoke with the chef who the waiter thinks that Rachel should talk to.,-14.745765761027892
+RC.whe.isl.lg.01,I take classes with the struggling student who the professor wonders whether Paul will tutor.,-23.26978698833539
+RC.whe.isl.lg.02,I respect the general who the soldier wonders whether Matt will impress.,-25.409554577168432
+RC.whe.isl.lg.03,I dislike the home owner who the real estate agent wonders whether Caroline will confront.,-20.609795221962287
+RC.whe.isl.lg.04,I like the talented actor who the director wonders whether Tom should hire.,-18.256394206604725
+RC.whe.isl.lg.05,I called the principal who the teacher wonders whether Christine will apologize to.,-23.894095569019903
+RC.whe.isl.lg.06,I negotiated with the famous band who the agent wonders whether Alan will perform with.,-24.826220906450672
+RC.whe.isl.lg.07,I share a locker with the quarterback who the cheerleader wonders whether Jessica kissed.,-22.09561067474918
+RC.whe.isl.lg.08,I spoke with the chef who the waiter wonders whether Rachel should talk to.,-20.549183186503267
+RC.adjBecause.non.lg.01,I called the client who the secretary thought that the lawyer insulted.,-18.85424739581481
+RC.adjBecause.non.lg.02,I sympathized with the parents who the priest believed that the bride and groom neglected to thank.,-14.43748833003927
+RC.adjBecause.non.lg.03,I talked to the actor who the reporter claimed that the tourists photographed.,-18.738542470528397
+RC.adjBecause.non.lg.04,I met the artist who the parents thought that the child prodigy imitated.,-20.97930974785878
+RC.adjBecause.non.lg.05,I served the child who the other customer believed that the young couple played with at the restaurant.,-21.540553196086755
+RC.adjBecause.non.lg.06,I spoke with the college president who the professor claimed that the students publicly criticized.,-13.939406412007322
+RC.adjBecause.non.lg.07,I interviewed the executive who the employee thought that the office manager blackmailed.,-18.449469064873707
+RC.adjBecause.non.lg.08,I emailed the congressman who the teacher said that her students wrote letters to. ,-9.212805146672727
+RC.adjBecause.isl.lg.01,I called the client who the secretary worried because the lawyer insults.,-22.82307323307614
+RC.adjBecause.isl.lg.02,I sympathized with the parents who the priest sighed because the bride and groom neglected to thank.,-17.083122696149402
+RC.adjBecause.isl.lg.03,I talked to the actor who the reporter coughed because the tourists photographed.,-26.46869939975845
+RC.adjBecause.isl.lg.04,I met the artist who the parents blushed because the child prodigy imitated.,-24.82158495357262
+RC.adjBecause.isl.lg.05,I served the child who the other customer winked because the young couple played with at the restaurant.,-26.440595270810704
+RC.adjBecause.isl.lg.06,I spoke with the college president who the professor fainted because the students publicly criticized.,-18.233641990242546
+RC.adjBecause.isl.lg.07,I interviewed the executive who the employee laughed because the office manager blackmailed.,-26.415828417037392
+RC.adjBecause.isl.lg.08,I emailed the congressman who the teacher smiled because her students wrote letters to. ,-16.538942641007154
