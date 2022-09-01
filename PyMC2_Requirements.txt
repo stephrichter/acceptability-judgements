@@ -1,0 +1,9 @@
+# Python 2.7.15
+# mid-2015 releases for Python 2.7
+# need fortran, cython compilers
+# install OpenBlas system library
+pymc==2.3.8
+scipy==1.2.3 #pip
+pandas==0.24.2 #pip
+numpy==1.16.6 #pip
+theano==1.0.5

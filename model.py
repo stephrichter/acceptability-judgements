@@ -5,6 +5,7 @@ import cPickle as pickle
 
 #from waic import *
 
+
 np.random.seed(1000)
 
 def construct_prob_trace(trace, responses):
@@ -117,6 +118,9 @@ data.island = data.island.astype('category')
 data.structure = data.structure.astype('category', categories=['non', 'island'])
 data.distance = data.distance.astype('category', categories=['short', 'long'])
 
+"""BERT log probabilities"""
+data.penalized_logprob = data.penalized_logprob.astype('float64')
+
 
 ##############################
 ## initialization functions ##
@@ -143,7 +147,6 @@ def init_dis():
                                 size=[get_num_of_levels(data.dependency),
                                       get_num_of_levels(data.island),
                                       get_num_of_levels(data.structure)])
-
 
 def init_violation_intercept():
     
@@ -243,6 +246,8 @@ def init_jump():
 ###################
 ## fixed effects ##
 ###################
+
+
 
 dependency_island_distance = pymc.Normal(name='dependency_island_distance',
                                        mu=0.,
@@ -380,6 +385,8 @@ intercepts_item = pymc.Normal(name='intercepts_item',
                               value=init_item(),
                               observed=False)
 
+
+
 ################
 ## likelihood ##
 ################
@@ -389,6 +396,20 @@ jump = pymc.Gamma(name='jump',
                   beta=1/0.001,
                   value=init_jump(),
                   observed=False)
+
+
+"""Probability scores from BERT."""
+prob_scoring_prior = pymc.Gamma(name='prob_scoring_prior', 
+                                       alpha=0.001,
+                                       beta=1/0.001,
+                                       value=sp.stats.expon.rvs(scale=.1),
+                                       observed=False)
+
+prob_scoring = pymc.Normal('prob_scoring',
+                                mu=0.,
+                                tau=prob_scoring_prior,
+                                #value=np.random.normal(0., 1., size=get_num_of_levels(data.penalized_logprob)),
+                                observed=False)
 
 
 if args.additivesubjrandomeffects:
@@ -405,16 +426,16 @@ if args.additivesubjrandomeffects:
                                   value=init_subjadd(),
                                   observed=False)
 
-    
+    """Probability scoring added here as test"""
     @pymc.deterministic
-    def param(fixed=fixed, intercepts_subj_add=intercepts_subj_add, intercepts_item=intercepts_item):
-        return fixed + intercepts_subj_add[np.array(data.subject.cat.codes)] + intercepts_item[np.array(data.item.cat.codes)]
+    def param(fixed=fixed, intercepts_subj_add=intercepts_subj_add, intercepts_item=intercepts_item, prob_scoring=prob_scoring):
+        return fixed + intercepts_subj_add[np.array(data.subject.cat.codes)] + intercepts_item[np.array(data.item.cat.codes)] + np.array(prob_scoring, dtype='float64')
 
 else:
 
     @pymc.deterministic
-    def param(fixed=fixed, intercepts_item=intercepts_item):
-        return fixed + intercepts_item[np.array(data.item.cat.codes)]
+    def param(fixed=fixed, intercepts_item=intercepts_item, prob_scoring=prob_scoring):
+        return fixed + intercepts_item[np.array(data.item.cat.codes)] + np.array(prob_scoring, dtype='float64')
 
     
 if args.multiplicativesubjrandomeffects:
@@ -499,22 +520,22 @@ if not args.unboundedviolation and not args.violationtype=='continuous' and not 
     dump_vals()
 
 
-prob_trace = construct_prob_trace(prob.trace(),
-                                  data.judgment.astype(int))
-lppd = compute_lppd(prob_trace)
-waic = compute_waic(prob_trace)
+#prob_trace = construct_prob_trace(prob.trace(),
+#                                  data.judgment.astype(int))
+#lppd = compute_lppd(prob_trace)
+##waic = compute_waic(prob_trace)
 
 
 
 
 with open('performance.csv', 'a') as f:
-    line = '{},{},{},{},{},{},{}\n'.format(args.violationtype,
+    line = '{},{},{},{},{},{}\n'.format(args.violationtype,
                                 str(args.unboundedviolation),
                                 str(args.violationintercept),
                                 str(args.numofviolations),
                                 model.DIC,
                                 model.BPIC,
-                                waic
+                                #waic
                                 )
                                 # model.dic
     f.write(line)
